@@ -28,3 +28,7 @@ def bonus
   epic_tragedy
 end
 
+characters = {
+  montagues: 
+  
+}
