@@ -14,7 +14,9 @@ def first_challenge
       :patriarch => {:name => "Lord Capulet", :age => "50"},
       :matriarch => {:name => "Lady Capulet", :age => "51"},
       :heroine => {:name => "Juliet", :age => "15", :status => "Alive"},
-      :heroine_friends => {}
+      :heroine_friends => {
+        
+      }
      }
    }
 end
