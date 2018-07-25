@@ -14,4 +14,5 @@ def first_challenge
        :hero_friends => {}
      }
    }
+   puts epic_tragedy
 end
