@@ -29,6 +29,6 @@ def bonus
 end
 
 characters = {
-  :montagues => {:patriarch =>  }
+  :montagues => {:patriarch => {:attributes => [] }
   
 }
